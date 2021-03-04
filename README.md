@@ -1,3 +1,3 @@
-# saloon-api
+# Bleach Anime API
  
-So basically its an api for all happening and activities that goes on within a saloon.
+An Api Built Specifivally for the purpose of everything in the bleach anime. From the Squads, squad members, captain and vice captains and abilities
