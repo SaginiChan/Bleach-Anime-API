@@ -3,7 +3,5 @@
 An Api Built Specifivally for the purpose of everything in the bleach anime. From the Squads, squad members, captain and vice captains and abilities
 
 
-Will include:
-1, Status(alive dead)
-2. Squad
-3. 
+Will include: status, squad, rank , ower level
+
